@@ -1,5 +1,7 @@
 c-cgi-playground
 ================
+> CGI (Common Gateway Interface) programs work by utilizing standard input (stdin) and standard output (stdout) to communicate with the web server
+
 - [Gregg Ink / youtube_episode_cgi · GitLab](https://gitlab.com/greggink/youtube_episode_cgi)
 - [Webprogramming (CGI) in C: creating a file upload page - YouTube](https://www.youtube.com/watch?v=_j5spdsJdV8)
 - [Getting Started with CGI Programming in C](https://www.jkorpela.fi/forms/cgic.html)
