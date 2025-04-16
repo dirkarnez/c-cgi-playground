@@ -1,6 +1,6 @@
 c-cgi-playground
 ================
-> CGI (Common Gateway Interface) programs work by utilizing standard input (stdin) and standard output (stdout) to communicate with the web server
+> CGI (Common Gateway Interface) programs work by utilizing standard input (stdin) and standard output (stdout) to communicate with the web server. When dealing with binary content (e.g., images, videos), the CGI program writes the raw binary data directly to stdout after sending the appropriate HTTP headers (e.g., Content-Type: image/png). 
 
 - [Gregg Ink / youtube_episode_cgi · GitLab](https://gitlab.com/greggink/youtube_episode_cgi)
 - [Webprogramming (CGI) in C: creating a file upload page - YouTube](https://www.youtube.com/watch?v=_j5spdsJdV8)
