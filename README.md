@@ -2,7 +2,7 @@ c-cgi-playground
 ================
 > CGI (Common Gateway Interface) programs work by utilizing standard input (stdin) and standard output (stdout) to communicate with the web server. When dealing with binary content (e.g., images, videos), the CGI program writes the raw binary data directly to stdout after sending the appropriate HTTP headers (e.g., Content-Type: image/png). 
 
-### Apache (port: 80)
+### Apache HTTPD(port: 80), [download](https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.63-250207-win64-VS17.zip)
 - http://localhost/cgi-bin/c-cgi-playground.cgi
 - rename `.exe` to `.cgi`
 - reference for [`./httpd.conf`](./httpd.conf) for `\httpd-2.4.63-250207-win64-VS17\Apache24\conf`
