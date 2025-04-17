@@ -5,6 +5,7 @@ c-cgi-playground
 ### Apache (port: 80)
 - http://localhost/cgi-bin/c-cgi-playground.cgi
 - rename `.exe` to `.cgi`
+- reference for [`\httpd-2.4.63-250207-win64-VS17\Apache24\conf`](./httpd.conf)
 
 ### Tutorials
 - [Gregg Ink / youtube_episode_cgi · GitLab](https://gitlab.com/greggink/youtube_episode_cgi)
